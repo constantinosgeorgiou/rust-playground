@@ -1,1 +1,3 @@
-https://doc.rust-lang.org/book/ch01-02-hello-world.html
+[The Rust Programming Language](https://doc.rust-lang.org/book/title-page.html)
+
+Chapters: 1, 2, 3
