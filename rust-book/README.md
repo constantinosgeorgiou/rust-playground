@@ -9,10 +9,10 @@ Chapters:
 - [x] 5
 - [x] 6
 - [x] 7
-- [ ] 8
-- [ ] 9
-- [ ] 10
-- [ ] 11
+- [x] 8
+- [x] 9
+- [x] 10
+- [x] 11.1 Testing Equality with the assert_eq! and assert_ne! Macros
 - [ ] 12
 - [ ] 13
 - [ ] 14
